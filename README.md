@@ -15,10 +15,10 @@ Welcome to my GitHub repository! This repository contains various projects and c
 
 Here are some of the key projects in this repository:
 
-1. **Project Name 1**
-   - Description: A brief description of what this project does.
-   - Technologies: List of technologies used.
-   - Status: Current status of the project (e.g., completed, in progress, etc.).
+1. FLIXX
+   - Description: Movie info application built with vanilla JavaScript that uses version 3 of the TMDB API
+   - Technologies: JS, HTML, CSS.
+   - Status: https://vercel.com/bavertus-projects/flixx.
 
 2. **Project Name 2**
    - Description: A brief description of what this project does.
