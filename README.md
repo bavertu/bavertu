@@ -44,6 +44,6 @@ Email: hbtutumlu@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/baver-tutumlu-64b53b1a0
 
-XING: https://www.xing.com/profile/baver_tutumlu/web_profiles
+XING: https://www.xing.com/profile/baver_tutumlu
 
 Thank you for visiting my repository!
