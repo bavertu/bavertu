@@ -25,10 +25,10 @@ Here are some of the key projects in this repository:
    - Technologies: JS, HTML.
    - Status: https://tracalorie-pied.vercel.app
 
-3. **Project Name 3**
-   - Description: A brief description of what this project does.
-   - Technologies: List of technologies used.
-   - Status: Current status of the project (e.g., completed, in progress, etc.).
+3. Barsco
+   - Description: Real web-site work.
+   - Technologies: This website is built with Bootstrap and Sass. It uses Font Awesome for icons.
+   - Status: https://www.barsco.de
 
 ## Installation
 
