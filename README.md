@@ -18,12 +18,12 @@ Here are some of the key projects in this repository:
 1. FLIXX
    - Description: Movie info application built with vanilla JavaScript that uses version 3 of the TMDB API
    - Technologies: JS, HTML, CSS.
-   - Status: https://vercel.com/bavertus-projects/flixx.
+   - Status: https://vercel.com/bavertus-projects/flixx
 
-2. **Project Name 2**
-   - Description: A brief description of what this project does.
-   - Technologies: List of technologies used.
-   - Status: Current status of the project (e.g., completed, in progress, etc.).
+2. Tracalorie 2.0
+   - Description: Tracalorie 2.0 is a web application designed to help users track their daily caloric intake and expenditure.
+   - Technologies: JS, HTML.
+   - Status: https://tracalorie-pied.vercel.app
 
 3. **Project Name 3**
    - Description: A brief description of what this project does.
