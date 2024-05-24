@@ -6,9 +6,6 @@ Welcome to my GitHub repository! This repository contains various projects and c
 
 - [Projects](#projects)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Projects
@@ -38,3 +35,12 @@ To install and run any of the projects in this repository, follow these steps:
    ```sh
    git clone https://github.com/bavertu/repository-name.git
 
+## Contact
+Contact
+
+If you have any questions or feedback, feel free to contact me at:
+
+Email: hbtutumlu@gmail.com
+LinkedIn: linkedin.com/in/baver-tutumlu-64b53b1a0
+XING: xing.com/profile/baver_tutumlu/web_profiles
+Thank you for visiting my repository!
