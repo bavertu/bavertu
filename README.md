@@ -41,6 +41,9 @@ Contact
 If you have any questions or feedback, feel free to contact me at:
 
 Email: hbtutumlu@gmail.com
-LinkedIn: linkedin.com/in/baver-tutumlu-64b53b1a0
-XING: xing.com/profile/baver_tutumlu/web_profiles
+
+LinkedIn: https://www.linkedin.com/in/baver-tutumlu-64b53b1a0
+
+XING: https://www.xing.com/profile/baver_tutumlu/web_profiles
+
 Thank you for visiting my repository!
