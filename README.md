@@ -23,7 +23,7 @@ Here are some of the key projects in this repository:
    - Status: https://tracalorie-pied.vercel.app
 
 3. Barsco
-   - Description: Real web-site work.
+   - Description: Real website work.
    - Technologies: This website is built with Bootstrap and Sass. It uses Font Awesome for icons.
    - Status: https://www.barsco.de
 
