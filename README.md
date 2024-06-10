@@ -12,18 +12,18 @@ Welcome to my GitHub repository! This repository contains various projects and c
 
 Here are some of the key projects in this repository:
 
-1. FLIXX
-   - Description: Movie info application built with vanilla JavaScript that uses version 3 of the TMDB API
-   - Technologies: JS, HTML, CSS.
-   - Status: https://vercel.com/bavertus-projects/flixx
+1. team.barsco.de
+   - Description: Team Barsco portfolio website.
+   - Technologies: This website is built with Bootstrap and Sass. It uses Font Awesome for icons.
+   - Status: https://team.barsco.de
 
-2. Tracalorie 2.0
-   - Description: Tracalorie 2.0 is a web application designed to help users track their daily caloric intake and expenditure.
-   - Technologies: JS, HTML.
-   - Status: https://tracalorie-pied.vercel.app
+2. ekokarton.com
+   - Description: ekokarton market line work.
+   - Technologies: This website is built with Bootstrap and Sass. It uses Font Awesome for icons.
+   - Status: https://www.ekokarton.com
 
-3. Barsco
-   - Description: Real website work.
+3. barsco.de/barsco.co
+   - Description: Website work for barsco.
    - Technologies: This website is built with Bootstrap and Sass. It uses Font Awesome for icons.
    - Status: https://www.barsco.de
 
@@ -40,10 +40,9 @@ Contact
 
 If you have any questions or feedback, feel free to contact me at:
 
-Email: hbtutumlu@gmail.com
+Email: bavertutumlu@barsco.de
 
 LinkedIn: https://www.linkedin.com/in/baver-tutumlu-64b53b1a0
 
-XING: https://www.xing.com/profile/baver_tutumlu
 
 Thank you for visiting my repository!
