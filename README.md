@@ -42,7 +42,7 @@ If you have any questions or feedback, feel free to contact me at:
 
 Email: bavertutumlu@barsco.de
 
-LinkedIn: https://www.linkedin.com/in/baver-tutumlu
+LinkedIn: https://www.linkedin.com/in/bavertutumlu
 
 
 Thank you for visiting my repository!
