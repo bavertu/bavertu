@@ -15,7 +15,7 @@ Here are some of the key projects in this repository:
 1. team.barsco.de
    - Description: Team Barsco portfolio website.
    - Technologies: This website is built with Bootstrap and Sass. It uses Font Awesome for icons.
-   - Status: https://team.barsco.de
+   - Status: https://teambarsco.de
 
 2. ekokarton.com
    - Description: ekokarton market line work.
@@ -25,7 +25,7 @@ Here are some of the key projects in this repository:
 3. barsco.de/barsco.co
    - Description: Website work for barsco.
    - Technologies: This website is built with Bootstrap and Sass. It uses Font Awesome for icons.
-   - Status: https://www.barsco.de
+   - Status: https://www.barsco.co
 
 ## Installation
 
@@ -40,7 +40,7 @@ Contact
 
 If you have any questions or feedback, feel free to contact me at:
 
-Email: bavertutumlu@barsco.de
+Email: bavertutumlu@barsco.info
 
 LinkedIn: https://www.linkedin.com/in/bavertutumlu
 
