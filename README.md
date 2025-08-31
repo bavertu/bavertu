@@ -12,7 +12,7 @@ Welcome to my GitHub repository! This repository contains various projects and c
 
 Here are some of the key projects in this repository:
 
-1. team.barsco.de
+1. teambarsco.de
    - Description: Team Barsco portfolio website.
    - Technologies: This website is built with Bootstrap and Sass. It uses Font Awesome for icons.
    - Status: https://teambarsco.de
