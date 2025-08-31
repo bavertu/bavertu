@@ -25,7 +25,7 @@ Here are some of the key projects in this repository:
 3. barsco.co
    - Description: Website work for barsco.
    - Technologies: This website is built with Bootstrap and Sass. It uses Font Awesome for icons.
-   - Status: https://www.barsco.info
+   - Status: https://www.barsco.co
 
 ## Installation
 
