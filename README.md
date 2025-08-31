@@ -22,7 +22,7 @@ Here are some of the key projects in this repository:
    - Technologies: This website is built with Bootstrap and Sass. It uses Font Awesome for icons.
    - Status: https://www.ekokarton.com
 
-3. barsco.de/barsco.co
+3. barsco.co
    - Description: Website work for barsco.
    - Technologies: This website is built with Bootstrap and Sass. It uses Font Awesome for icons.
    - Status: https://www.barsco.co
